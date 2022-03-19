@@ -19,22 +19,6 @@ if you want to learn java along with DSA in English **For Free** [click here](ht
 - [Instagram](https://www.instagram.com/pawankumarstar/)
 - [Twitter](https://twitter.com/PaWaNKuMaRsrkvk)
 
-**The Algorithm I Follow**
-- [x] Wake Up
-- [x] Eat
-- [x] Code
-- [x] Sleep
-- [x] Repeat
-
-**Some Of The Common Question You Might Have**
-
-> Is Learning Program Difficult ?
-
-No , The only Thing You Need To Have is Intrest To Learn
-
-> Is Learning DSA Difficult ?
-
-Not At all , Just Invest Your Time You Can Do It
 
 
 
