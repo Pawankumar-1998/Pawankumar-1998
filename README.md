@@ -1,5 +1,9 @@
 ### Hi there Friends 👋
 
+I Am Pawan a BCA graduate ,
+Currently Learning Java And Dsa ,
+Love to Explore In tech 
+
 <!--
 **Pawankumar-1998/Pawankumar-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
