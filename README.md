@@ -1,5 +1,12 @@
 ## Hi there Friends 👋
 
+```ts
+const first name ='Pawan';
+const Second name ='Kumar';
+const Had Graduation in ='BCA';
+
+```
+
 *I Am **Pawan** a BCA graduate **,**
 Currently Learning Java And Dsa **,**
 Love to Explore In tech* **,**
@@ -18,6 +25,17 @@ if you want to learn java along with DSA in English **For Free** [click here](ht
 - [x] Code
 - [x] Sleep
 - [x] Repeat
+
+**Some Of The Common Question You Might Have**
+
+> Is Learning Program Difficult ?
+
+No , The only Thing You Need To Have is Intrest To Learn
+
+> Is Learning DSA Difficult ?
+
+Not At all , Just Invest Your Time You Can Do It
+
 
 
 
