@@ -8,6 +8,11 @@ if you want to learn java along with DSA in English **For Free** [click here](ht
 
 ![image](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
+**Connect Me Through Socials**
+- [Instagram](https://www.instagram.com/pawankumarstar/)
+- [Twitter](https://twitter.com/PaWaNKuMaRsrkvk)
+
+
 
 <!--
 **Pawankumar-1998/Pawankumar-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
