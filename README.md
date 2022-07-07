@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/pawankumarsrkvk" target="blank"><img src="https://img.shields.io/twitter/follow/pawankumarsrkvk?logo=twitter&style=for-the-badge" alt="pawankumarsrkvk" /></a> </p>
 
-- 🔭 I’m currently working on **MCA Examination**
+- 🔭 I’m currently working on **Java And DSA**
 
-- 🌱 Future Goals or project on this repository **Solutions of all leetcode questions , Websites**
+- 🌱 Future Goals or project on this repository **Solutions of all leetcode questions , Code for basic Websites**
 
 - 📫 How to reach me **paletipawankumar@gmail.com**
 
