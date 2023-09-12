@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Solving Leetcode Question**
 
-- 🌱 I’m currently learning **Java And DSA And Web Development**
+- 🌱 I’m currently learning **Java And DSA And Android Devlopment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pawankumar-1998?tab=repositories](https://github.com/Pawankumar-1998?tab=repositories)
 
