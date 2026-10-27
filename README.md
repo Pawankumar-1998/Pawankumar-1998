@@ -1,35 +1,113 @@
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/997525296754462830/1060550267747176559/Group_109.png" />
-</p>
+# 👋 Hey, I'm Pawan Kumar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawankumar-1998&label=Profile%20views&color=0e75b6&style=flat" alt="pawankumar-1998" /> </p>
+### Computer Science Educator | Java & DSA Learner | Exploring AI & Data Science
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawankumar-1998" alt="pawankumar-1998" /></a> </p>
+I’m an **Assistant Professor in Computer Science** passionate about teaching, technology, and continuous learning. I enjoy breaking down complex concepts into simple explanations and building my technical skills one problem at a time.
 
-<p align="left"> <a href="https://twitter.com/pawankumarsrkvk" target="blank"><img src="https://img.shields.io/twitter/follow/pawankumarsrkvk?logo=twitter&style=for-the-badge" alt="pawankumarsrkvk" /></a> </p>
+- 🎓 Teaching Computer Science and helping students grow.
+- 💻 Practising Data Structures and Algorithms using Java.
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and Data Science.
+- 📚 Building practical learning resources for students and fellow developers.
+- 🎯 Currently working towards my **180 Days of DSA Challenge**.
 
-- 🔭 I’m currently working on **Solving Leetcode Question**
+---
 
-- 🌱 I’m currently learning **Java And DSA And Android Devlopment**
+## 🌐 Connect With Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pawankumar-1998?tab=repositories](https://github.com/Pawankumar-1998?tab=repositories)
-
-- 📫 How to reach me **paletipawankumar@gmail.com**
-
-- ⚡ Fun fact ****I Think i Am Funny****
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pawankumarsrkvk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawankumarsrkvk" height="30" width="40" /></a>
-<a href="https://instagram.com/pawankumarstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawankumarstar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pawan18kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pawan18kumar" height="30" width="40" /></a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Pawankumar-1998">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:paletipawankumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.leetcode.com/pawan18kumar">
+    <img src="https://img.shields.io/badge/LeetCode-Practise%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawankumar-1998&show_icons=true&locale=en&layout=compact" alt="pawankumar-1998" /></p>
+## 🛠️ Technologies & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawankumar-1998&show_icons=true&locale=en" alt="pawankumar-1998" /></p>
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" alt="Java, Python, C, C++, JavaScript" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawankumar-1998&" alt="pawankumar-1998" /></p>
+### Development & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,html,css" alt="Git, GitHub, IntelliJ IDEA, VS Code, HTML, CSS" />
+</p>
+
+### Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,tensorflow" alt="Python, NumPy, Pandas, TensorFlow" />
+</p>
+
+---
+
+## 🚀 Featured Learning Journey
+
+### 💻 180 Days of DSA — Java
+
+**One problem at a time. One concept at a time. One step closer to mastery.**
+
+I'm working through Data Structures and Algorithms to strengthen my problem-solving skills, understand algorithmic trade-offs, and build a consistent coding habit.
+
+🔗 **[Explore My 180 Days of DSA Repository](https://github.com/Pawankumar-1998/180-days-of-dsa)**
+
+What you'll find:
+- Problem-solving approaches, from brute force to optimization.
+- Java implementations with time and space complexity.
+- Intuition, explanations, and revision notes.
+- Lessons learned throughout the journey.
+
+---
+
+## 📚 Areas of Interest
+
+| Area | Focus |
+|---|---|
+| 👨‍🏫 Computer Science Education | Teaching, mentoring, and simplifying technical concepts |
+| 🧩 Data Structures & Algorithms | Problem-solving, complexity analysis, and interview preparation |
+| ☕ Java Programming | Core Java, OOP, and clean coding practices |
+| 🤖 Artificial Intelligence | Building foundational AI and ML knowledge |
+| 📊 Data Science | Python, data analysis, and machine learning fundamentals |
+
+---
+
+## 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pawankumar-1998&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pawan's GitHub statistics" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawankumar-1998&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Pawankumar-1998&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 💡 My Philosophy
+
+> Consistency beats intensity. Keep learning, keep building, and keep improving.
+
+I believe the best way to master a concept is to understand it deeply, practise it consistently, and explain it clearly to someone else.
+
+---
+
+### 🤝 Let's Learn and Build Together
+
+I'm always happy to connect with educators, developers, students, and technology enthusiasts who enjoy learning and sharing knowledge.
+
+**Thanks for visiting my profile! ⭐**
+
+*Keep learning. Keep coding. Keep growing.* 🚀
