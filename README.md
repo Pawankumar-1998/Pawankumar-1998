@@ -15,7 +15,7 @@ I’m an **Assistant Professor in Computer Science** passionate about teaching, 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://pawan-kumar-portfolio.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/Pawankumar-1998">
